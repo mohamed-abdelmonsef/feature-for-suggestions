@@ -9,7 +9,7 @@ info:
   servers:
     -url: 'http://localhost:3000/'
     description: this is my local server
-    -url: 'https://api-for-note-app.herokuapp.com/'
+    -url: 'https://depax-blog.herokuapp.com/'
     description: this is my heroku server
 schemes: [https ,http]   
 produces:
